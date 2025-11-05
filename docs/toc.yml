@@ -11,6 +11,8 @@
       href: quickstart.md
     - name: Existing Project Guide
       href: existing-project-guide.md
+    - name: Upgrading Spec Kit
+      href: upgrading-spec-kit.md
 
 # Development workflows
 - name: Development
