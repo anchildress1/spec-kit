@@ -21,6 +21,7 @@ uvx --from git+https://github.com/github/spec-kit.git specify init <PROJECT_NAME
 ```
 
 Pick script type explicitly (optional):
+
 ```bash
 uvx --from git+https://github.com/github/spec-kit.git specify init <PROJECT_NAME> --script ps  # Force PowerShell
 uvx --from git+https://github.com/github/spec-kit.git specify init <PROJECT_NAME> --script sh  # Force POSIX shell
@@ -143,7 +144,13 @@ Finally, generate tasks and implement the solution:
 
 ## Next Steps
 
+<<<<<<< HEAD
 - **Adding features to existing projects?** Use the [Existing Project Guide](existing-project-guide.md)
 - **Deep dive:** Read the [complete methodology](../spec-driven.md) for in-depth guidance
 - **Local development:** See [Local Development Guide](local-development.md) for CLI development workflows
 - **Troubleshooting:** Check the main [README troubleshooting section](../README.md#-troubleshooting)
+=======
+- Read the complete methodology for in-depth guidance
+- Check out more examples in the repository
+- Explore the source code on GitHub
+>>>>>>> main
